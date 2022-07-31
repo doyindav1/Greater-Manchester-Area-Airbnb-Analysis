@@ -21,10 +21,16 @@ The following questions served as a guide in the analysis of listings in the Gre
 * Data: contains the datasets used in the analysis. 
 * airbnb_updated: A copy of the notebook used for the analysis. 
 ## Results
-The machine learning model used to predict price listings achieved an R-Squared value of 50% which means the features 
-used in the model can explain 50% of the variability in price of the listings. 
-Here's my medium article explaining findings from an exploratory and explanatory analysis of the dataset as well as 
-results from the machine learning model: 
+1. Manchester town has the most listings in the Greater Manchester Area, accounting for 53% of total listings followed by Salford with 17% and Trafford with about 9% of total listings.
+
+2. Amongst the top 10 most reviewed property types by customers, "Entire Cottage" had the highest median rating of 4.9 followed by entire bungalow, tiny home, private room in a residential home and private room in a townhouse.
+
+
+3. 65.4% of total listings were priced between $0–$100 while $100–$200 priced listings accounted for 23.4% of total listings.
+The bulk of the property listings were entire homes/apartments. The 'entire rooms' accounted for about 60% of total listings followed by private rooms with 39% of listings.Shared rooms and hotel rooms accounted for 0.7% and 0.5% of listings respectively.
+
+
+4. The RandomForestRegression algorithm performed best in predicting prices of listings in the Greater Manchester Area. The model achieved a root mean square error of 32.2 and an R² value of 59.3% which means that the features are able to explain 59% of the variability in the price of the listings. 
 ## Licesnsing and Acknowledgment
 The datasets used in this analysis were acquired from Inside Airbnb database under a 
 Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license.
