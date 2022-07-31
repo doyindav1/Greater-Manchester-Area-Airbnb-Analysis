@@ -1,7 +1,6 @@
 # Greater-Manchester-Area-Airbnb-Analysis
 ## Getting Started
-This is an analysis of Airbnb listings in the Greater Manchester Area. The dataset used has 3584 listings with information like price, 
-host information, amenities, ratings and many other features present in the dataset. 
+This is an analysis of Airbnb listings in the Greater Manchester Area as at March, 2022. The dataset used has 3584 listings with information like price, host information, amenities, ratings and many other features present in the dataset. 
 ## Installations
 - Python
 - Numpy
