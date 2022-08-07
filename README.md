@@ -52,7 +52,7 @@ The bulk of the property listings were entire homes/apartments. The 'entire room
 
 4. The RandomForestRegression algorithm performed best in predicting prices of listings in the Greater Manchester Area. The model achieved a root mean square error of 32 and an R² value of 59.8% which means that the features are able to explain 60% of the variability in the price of the listings. 
 
-Here's a link to my medium article detailing the major findings: [Medium Article](https://medium.com/p/72156f8f5554/edit)
+Here's a link to my medium article detailing the major findings: [Predicting the price of Airbnb listings](https://medium.com/@doyinsolaoduwole/predicting-the-price-of-airbnb-listings-72156f8f5554)
 
 
 <a name="licensing"></a>
