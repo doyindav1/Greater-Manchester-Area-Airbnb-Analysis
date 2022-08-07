@@ -19,7 +19,7 @@ The following questions served as a guide in the analysis of listings in the Gre
 ## File Description
 * Data: contains the datasets used in the analysis. 
 * airbnb_updated: A copy of the notebook used for the analysis. 
-## Results
+## Summary of Results
 1. Manchester town has the most listings in the Greater Manchester Area, accounting for 53% of total listings followed by Salford with 17% and Trafford with about 9% of total listings.
 
 2. Amongst the top 10 most reviewed property types by customers, "Entire Cottage" had the highest median rating of 4.9 followed by entire bungalow, tiny home, private room in a residential home and private room in a townhouse.
@@ -29,7 +29,9 @@ The following questions served as a guide in the analysis of listings in the Gre
 The bulk of the property listings were entire homes/apartments. The 'entire rooms' accounted for about 60% of total listings followed by private rooms with 39% of listings.Shared rooms and hotel rooms accounted for 0.7% and 0.5% of listings respectively.
 
 
-4. The RandomForestRegression algorithm performed best in predicting prices of listings in the Greater Manchester Area. The model achieved a root mean square error of 32.2 and an R² value of 59.3% which means that the features are able to explain 59% of the variability in the price of the listings. 
+4. The RandomForestRegression algorithm performed best in predicting prices of listings in the Greater Manchester Area. The model achieved a root mean square error of 32 and an R² value of 59.8% which means that the features are able to explain 60% of the variability in the price of the listings. 
+
+Here's a link to my medium article detailing the major findings: [Medium Article](https://medium.com/p/72156f8f5554/edit)
 ## Licesnsing and Acknowledgment
 The datasets used in this analysis were acquired from Inside Airbnb database under a 
 Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license.
